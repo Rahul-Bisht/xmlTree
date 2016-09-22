@@ -1,0 +1,18 @@
+.leftmargin {
+    margin-left:15px;
+}
+
+.parent {
+}
+.xmlChildren {
+    
+    border-left: black;
+    border-left-style: dashed;
+    border-left-width: thin;
+    }
+div {
+    word-wrap: break-word;
+}
+.tag {
+    color:#007591;
+}
